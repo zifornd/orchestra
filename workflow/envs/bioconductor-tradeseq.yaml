@@ -1,0 +1,7 @@
+name: bioconductor-tradeseq
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - bioconductor-tradeseq

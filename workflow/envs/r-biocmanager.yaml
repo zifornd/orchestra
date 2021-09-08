@@ -1,0 +1,7 @@
+name: r-biocmanager
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - r-biocmanager

@@ -1,0 +1,7 @@
+name: bioconductor-celldex
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - bioconductor-celldex

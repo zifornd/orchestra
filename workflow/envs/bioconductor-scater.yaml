@@ -1,0 +1,7 @@
+name: bioconductor-scater
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - bioconductor-scater

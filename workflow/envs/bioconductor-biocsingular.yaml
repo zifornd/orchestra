@@ -1,0 +1,7 @@
+name: bioconductor-biocsingular
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - bioconductor-biocsingular

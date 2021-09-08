@@ -1,0 +1,7 @@
+name: bioconductor-slingshot
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - bioconductor-slingshot

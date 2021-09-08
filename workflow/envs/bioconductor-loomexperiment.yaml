@@ -1,0 +1,7 @@
+name: bioconductor-loomexperiment
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - bioconductor-loomexperiment

@@ -1,0 +1,7 @@
+name: bioconductor-org.hs.eg.db
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - bioconductor-org.hs.eg.db

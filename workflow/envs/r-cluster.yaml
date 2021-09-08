@@ -1,0 +1,7 @@
+name: r-cluster
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - r-cluster

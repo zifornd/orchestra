@@ -1,0 +1,7 @@
+name: bioconductor-tenxbraindata
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - bioconductor-tenxbraindata

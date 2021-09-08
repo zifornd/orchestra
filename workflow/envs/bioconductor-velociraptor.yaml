@@ -1,0 +1,7 @@
+name: bioconductor-velociraptor
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - bioconductor-velociraptor

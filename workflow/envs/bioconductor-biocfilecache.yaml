@@ -1,0 +1,7 @@
+name: bioconductor-biocfilecache
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - bioconductor-biocfilecache

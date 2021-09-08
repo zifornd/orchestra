@@ -1,0 +1,7 @@
+name: bioconductor-limma
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - bioconductor-limma

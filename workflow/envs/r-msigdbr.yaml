@@ -1,0 +1,7 @@
+name: r-msigdbr
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - r-msigdbr

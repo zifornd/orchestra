@@ -1,0 +1,7 @@
+name: r-rmtstat
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - r-rmtstat

@@ -1,0 +1,7 @@
+name: bioconductor-tscan
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - bioconductor-tscan

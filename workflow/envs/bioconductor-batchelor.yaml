@@ -1,0 +1,7 @@
+name: bioconductor-batchelor
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - bioconductor-batchelor

@@ -1,0 +1,7 @@
+name: r-igraph
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - r-igraph

@@ -1,0 +1,7 @@
+name: bioconductor-corral
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - bioconductor-corral

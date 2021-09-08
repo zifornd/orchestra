@@ -1,0 +1,7 @@
+name: bioconductor-scpca
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - bioconductor-scpca

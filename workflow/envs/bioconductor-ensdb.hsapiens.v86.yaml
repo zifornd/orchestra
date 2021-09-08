@@ -1,0 +1,7 @@
+name: bioconductor-ensdb.hsapiens.v86
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - bioconductor-ensdb.hsapiens.v86

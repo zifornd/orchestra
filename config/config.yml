@@ -1,0 +1,73 @@
+# Configuration
+
+# Droplet processing
+
+DropletUtils:
+  
+  barcodeRanks:
+    lower: 100
+  
+  emptyDrops:
+    lower: 100
+    niters: 10000
+    FDR: 0.001
+ 
+# Quality control
+
+scuttle:
+  
+  perCellQCMetrics:
+    subsets: ["MT"]
+  
+  quickPerCellQC:
+    subsets: ["MT"]
+    nmads: 3
+
+# Normalization
+
+logNormCounts:
+  downsample: False
+
+# Feature selection
+
+getTopHVGs:
+  fdr.threshold: 0.1
+
+# Dimensionality reduction
+
+calculatePCA:
+  ncomponents: 50
+
+calculateTSNE:
+  perplexity: 30
+  max_iter: 2500
+
+calculateUMAP:
+  n_neighbors: 15
+  min_dist: 0.5
+
+parallelUMAP:
+  n_neighbors: [3, 5, 15, 30, 50, 100]
+  min_dist: [0, 0.01, 0.05, 0.1, 0.5, 1]
+
+parallelTSNE:
+  perplexity: [3, 5, 15, 30, 50, 100]
+  max_iter: [500, 1000, 1500, 2000, 2500, 3000]
+
+# Clustering
+
+# Doublet detection
+
+findDoubletClusters:
+  nmads: 5
+
+# Cell cycle assignment
+
+# Marker gene detection
+  
+goana:
+  species: "Mm"
+
+# Cell type annotation
+
+# Trajectory analysis

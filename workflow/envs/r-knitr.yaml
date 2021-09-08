@@ -1,0 +1,7 @@
+name: r-knitr
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - r-knitr

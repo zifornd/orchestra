@@ -1,0 +1,7 @@
+name: bioconductor-mousegastrulationdata
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - bioconductor-mousegastrulationdata

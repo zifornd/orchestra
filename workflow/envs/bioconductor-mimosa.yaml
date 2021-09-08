@@ -1,0 +1,7 @@
+name: bioconductor-mimosa
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - bioconductor-mimosa

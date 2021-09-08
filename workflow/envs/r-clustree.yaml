@@ -1,0 +1,7 @@
+name: r-clustree
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - r-clustree

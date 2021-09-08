@@ -1,0 +1,7 @@
+name: r-dendextend
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - r-dendextend

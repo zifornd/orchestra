@@ -1,0 +1,7 @@
+name: bioconductor-dropletutils
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - bioconductor-dropletutils

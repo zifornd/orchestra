@@ -1,0 +1,7 @@
+name: r-readxl
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - r-readxl

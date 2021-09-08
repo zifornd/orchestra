@@ -1,0 +1,7 @@
+name: bioconductor-gseabase
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - bioconductor-gseabase

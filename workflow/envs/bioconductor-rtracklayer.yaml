@@ -1,0 +1,7 @@
+name: bioconductor-rtracklayer
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - bioconductor-rtracklayer

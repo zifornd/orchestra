@@ -1,0 +1,7 @@
+name: bioconductor-isee
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - bioconductor-isee

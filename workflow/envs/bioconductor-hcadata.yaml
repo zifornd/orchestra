@@ -1,0 +1,7 @@
+name: bioconductor-hcadata
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - bioconductor-hcadata

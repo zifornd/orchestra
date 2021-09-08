@@ -1,0 +1,7 @@
+name: bioconductor-pcatools
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - bioconductor-pcatools

@@ -1,0 +1,7 @@
+name: bioconductor-org.mm.eg.db
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - bioconductor-org.mm.eg.db

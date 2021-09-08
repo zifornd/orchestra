@@ -1,0 +1,7 @@
+name: bioconductor-tenxpbmcdata
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - bioconductor-tenxpbmcdata

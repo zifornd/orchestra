@@ -1,0 +1,7 @@
+name: bioconductor-bluster
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - bioconductor-bluster
